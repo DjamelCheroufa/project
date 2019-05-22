@@ -1,0 +1,13 @@
+public class Test{
+
+
+public static void main Affiche(){
+
+System.out.println("message");
+
+
+}
+
+
+
+}
