@@ -12,7 +12,7 @@ import scala.util.Random
 import au.com.bytecode.opencsv.CSVWriter
 import org.apache.spark.rdd.PairRDDFunctions
 
-
+//ceci est un commentaire 
   case class Sales(product_id:String,time_id:String,customer_id:String)
   case class Customer(customer_id:String, account_num:String, last_name:String)
   
